@@ -17,3 +17,4 @@ for (let i = 0; i < hayvanlar.length; i++) {
   }
  }
 console.log(toplamBacak);
+alert(toplamBacak);
